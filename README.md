@@ -6,6 +6,8 @@
  
 http://100.25.43.37:8080/
 
+Dockerhub: https://hub.docker.com/repository/docker/ryanrap/blog-app/general
+
 the most challenging part was the dynamo db stuff which I could not get to work, even after trying to use chatgpt and google.
 
 I was not able to get mongodb fully functional, it does connect to it but does not update it. 
